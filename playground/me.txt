@@ -1,5 +1,0 @@
-{{#user}}
-Name: Niket Kumar
-Skills: Python, Machine learning, Deep learning, NLP, Statistics
-Email: nik7597@gmail.com
-{{/user}}
